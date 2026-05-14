@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-community
+langchain-openai
+langchain-tavily
+faiss-cpu
+tiktoken
+sentence-transformers
+tavily-python
+tavily
+langchain_text_splitters
+pypdf
